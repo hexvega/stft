@@ -1,0 +1,2 @@
+D:\_company\_Joybots\spectral_energy_detection\x64\Debug\spectral_energy_detection.exe
+D:\_company\_Joybots\spectral_energy_detection\cstft\x64\Debug\spectral_energy_detection.exe

@@ -1,0 +1,7 @@
+﻿  stft.c
+D:\_company\_Joybots\spectral_energy_detection\cstft\lib\stft.c(89,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\_company\_Joybots\spectral_energy_detection\cstft\lib\stft.c(122,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\_company\_Joybots\spectral_energy_detection\cstft\lib\stft.c(214,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\_company\_Joybots\spectral_energy_detection\cstft\lib\stft.c(204,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\_company\_Joybots\spectral_energy_detection\cstft\lib\stft.c(205,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  spectral_energy_detection.vcxproj -> D:\_company\_Joybots\spectral_energy_detection\cstft\x64\Debug\spectral_energy_detection.exe
